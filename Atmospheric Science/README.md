@@ -1,8 +1,10 @@
-# Exoplanet Atmospheric Analysis
+# Atmospheric Science
+
+## Exoplanet Atmospheric Analysis
 
 This project demonstrates thorough data analysis of atmospheric probe measurements from an exoplanet mission. The code processes and analyzes multi-probe atmospheric data to characterize the planet's atmospheric composition, thermal structure, and radiative properties.
 
-## Key Features:
+### Key Features:
 - Processing of large multi-parameter atmospheric datasets from five separate atmospheric probes
 - Calculation of atmospheric composition including molecular species densities and mixing ratios
 - Determination of thermodynamic properties including temperature profiles and specific heat capacity
