@@ -6,7 +6,7 @@ Welcome to my portfolio of data analysis and computational physics projects. Thi
 
 The repository is organized into two main directories:
 
-### [Computational Modeling and Analysis](./Computational_Modeling_and_Analysis/)
+### [Computational Modeling and Analysis](./Computational%20Modeling%20and%20Analysis/)
 
 This section contains projects focused on statistical methods, hypothesis testing, and parameter estimation:
 
