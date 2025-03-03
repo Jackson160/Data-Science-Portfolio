@@ -12,7 +12,7 @@ This project demonstrates fundamental concepts of statistical hypothesis testing
 - Empirical measurement of Type I and Type II error rates
 - Visual comparison of theoretical PDFs against generated sample distributions
 
-This repository serves as a practical demonstration of hypothesis testing fundamentals, sampling methodologies, and error analysis in statistics. It's particularly useful for students learning statistical inference, researchers implementing custom statistical tests, or practitioners interested in the empirical performance of different sampling techniques.
+This project serves as a practical demonstration of hypothesis testing fundamentals, sampling methodologies, and error analysis in statistics. It's particularly useful for students learning statistical inference, researchers implementing custom statistical tests, or practitioners interested in the empirical performance of different sampling techniques.
 
 ## Statistical Distance Analysis Between Uniform Random Points
 
@@ -40,4 +40,18 @@ This project demonstrates a complete workflow for parameter estimation and stati
 - Pull distribution analysis to verify uncertainty estimates
 - Chi-square distribution analysis to confirm proper fit statistics
 
-This example serves as a template for rigorous parameter estimation in scientific data analysis, particularly useful for physics, astronomy, or any field requiring model fitting with proper uncertainty quantification and statistical validation.
+This project serves as a template for rigorous parameter estimation in scientific data analysis, particularly useful for physics, astronomy, or any field requiring model fitting with proper uncertainty quantification and statistical validation.
+
+## Statistical Analysis and Simulation of Random Variables
+
+This project explores statistical concepts through simulation and visualization. It consists of two main parts: a match outcome simulator and an exploration of the Central Limit Theorem and correlated random variables.
+
+### Key Features:
+- Simulation of game outcomes (wins/losses/draws) with fixed probabilities
+- Statistical comparison between theoretical and empirical distributions
+- Visualization of bivariate relationships with and without added noise
+- Demonstration of the Central Limit Theorem with different sample sizes
+- Generation and analysis of correlated random variables through common factors
+- Empirical validation of theoretical covariance and correlation coefficients
+
+This project serves as a practical introduction to statistical simulation concepts. It demonstrates how to generate random outcomes according to specific distributions, analyze their statistical properties, and visualize relationships between variables. The code is particularly useful for students learning probability theory, researchers needing example implementations of random variable generation, or data scientists interested in understanding correlation structures through simulation.
