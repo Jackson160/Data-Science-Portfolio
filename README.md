@@ -15,7 +15,7 @@ This section contains projects focused on statistical methods, hypothesis testin
 - **Parameter Estimation**: Complete workflow for model fitting with statistical validation
 - **Random Variable Simulation**: Exploration of probability distributions and the Central Limit Theorem
 
-### [Atmospheric Science](./atmospheric_science/)
+### [Atmospheric Science](./Atmospheric%20Science/)
 
 This section demonstrates advanced analysis of large scientific datasets:
 
