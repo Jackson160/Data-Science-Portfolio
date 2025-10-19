@@ -6,6 +6,10 @@ Welcome to my portfolio of data analysis and computational physics projects. Thi
 
 The repository is organized into three main directories:
 
+### [Astrophysics](./Astrophysics/)
+This section features analysis of astronomical survey data and dark matter research:
+- **Galaxy Cluster Dark Matter Analysis**: Estimation of virial mass and mass-to-light ratios for galaxy cluster ACO 2670 using SDSS data, providing evidence for dark matter dominance through computational techniques applied to large-scale cosmic structures
+
 ### [Computational Modeling and Analysis](./Computational%20Modeling%20and%20Analysis/)
 This section contains projects focused on statistical methods, hypothesis testing, and parameter estimation:
 - **Hypothesis Testing Simulation**: Implementation of sampling techniques and analysis of statistical error rates
@@ -16,10 +20,6 @@ This section contains projects focused on statistical methods, hypothesis testin
 ### [Atmospheric Science](./Atmospheric%20Science/)
 This section demonstrates advanced analysis of large scientific datasets:
 - **Exoplanet Atmospheric Analysis**: Comprehensive characterization of atmospheric composition, thermal structure, and radiative properties using multi-probe measurements
-
-### [Astrophysics](./Astrophysics/)
-This section features analysis of astronomical survey data and dark matter research:
-- **Galaxy Cluster Dark Matter Analysis**: Estimation of virial mass and mass-to-light ratios for galaxy cluster ACO 2670 using SDSS data, providing evidence for dark matter dominance through computational techniques applied to large-scale cosmic structures
 
 ## Technical Skills Demonstrated
 
